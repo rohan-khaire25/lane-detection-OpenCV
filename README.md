@@ -20,5 +20,5 @@ The CARLA python client runs on **Python 3.5.x or Python 3.6.x (x is any number)
 ### Result illustration ###
 
 ![Carla](images/Carla.png)
-![straight(images/Straight.png)
-![Curve(images/Curve.png)
+![straight](images/Straight.png)
+![Curve](images/Curve.png)
